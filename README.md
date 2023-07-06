@@ -17,7 +17,7 @@
 </div>
 <br/>
 <p>
-A Skilled Data Scientist who is pursuing PG-Diploma in AI/ML Specialization from IIIT-Banaglore.
+A Skilled Data Scientist who is pursuing PG-Diploma in AI/ML Specialization from IIIT-Bangalore.
 
 Currently working as a ML Engineer at TCS.⚡⚡
 
@@ -28,4 +28,3 @@ Fun fact: I love to analyze data for trends and patterns and interpret data with
 How to reach me? Quickly email me at kevinupenbhaishah@gmail.com
 ---
 
-### :hammer_and_wrench: Languages and Tools :
