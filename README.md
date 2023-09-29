@@ -8,7 +8,9 @@
 
 # About Me
 
-I am Kevin, a proficient Data Scientist specializing in Artificial Intelligence and Machine Learning. My educational background includes the successful completion of a Post Graduate Diploma in AI/ML from IIIT-Bangalore. Presently, I hold the role of a Data Scientist at EvolVision Technologies and I am also a Data Science Tutor at DevTown , building on my extensive experience as a former professional at TCS.⚡⚡
+I am Kevin, a proficient Data Scientist specializing in Artificial Intelligence and Machine Learning. My educational background includes the successful completion of a **Post Graduate Diploma in AI/ML** from **IIIT-Bangalore**. Presently, I hold the role of a Data Scientist at **EvolVision Technologies** and I am also a Data Science Tutor at **DevTown** , building on my extensive experience as a former professional at **TCS**.⚡⚡
+
+3+ years of experience in **Data scraping, Data Visualization, Machine Learning models** and **Validation/Monitoring**of data. Equipped with record of analytical acumen to deploy complex machine learning and statistical modeling algorithm and techniques for pattern identification and extracting insights.
 
 My career thrives on collaboration with fellow content creators, and I am deeply passionate about conducting intricate data analyses, uncovering emerging trends, and constructing robust, scalable data pipelines. My enthusiasm for continuous learning is matched only by my commitment to imparting knowledge to others.
 
@@ -58,8 +60,6 @@ Thank you for visiting my profile. Feel free to reach out for professional colla
 
 
 ## Contact Information
-
-Feel free to reach out to me through the following channels:
 
 - LinkedIn: [Connect with me](your_linkedin_profile_url)
 
