@@ -8,7 +8,7 @@
 
 # About Me
 
-🚀 Data Scientist with 4 years of industry experience specializing in Data Visualization, Machine Learning, Deep Learning, LLM models and Validation/Monitoring of data. Additionally, I am a dedicated Data Science Trainer, having conducted over 400+ sessions and mentored 200+ students, imparting practical knowledge and fostering a deeper understanding of data science principles. 📚💡
+🚀 Data Scientist with 5 years of industry experience specializing in Data Visualization, Machine Learning, Deep Learning, LLM models and Validation/Monitoring of data. Additionally, I am a dedicated Data Science Trainer, having conducted over 400+ sessions and mentored 200+ students, imparting practical knowledge and fostering a deeper understanding of data science principles. 📚💡
 
 Developed intricate machine learning & statistical modeling algorithms to derive insights from complex datasets. My expertise spans various data science domains, including OCR, Computer Vision, Image Processing, Deep Learning, and Natural Language Processing (NLP). 📊🖥️
 
